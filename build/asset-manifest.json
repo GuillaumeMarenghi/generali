@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ea1e483.chunk.css",
+    "main.js": "/static/js/main.937b4275.chunk.js",
+    "main.js.map": "/static/js/main.937b4275.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ccedc852.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ccedc852.js.map",
+    "static/js/2.16d3a128.chunk.js": "/static/js/2.16d3a128.chunk.js",
+    "static/js/2.16d3a128.chunk.js.map": "/static/js/2.16d3a128.chunk.js.map",
+    "static/js/3.9e3277d5.chunk.js": "/static/js/3.9e3277d5.chunk.js",
+    "static/js/3.9e3277d5.chunk.js.map": "/static/js/3.9e3277d5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0ea1e483.chunk.css.map": "/static/css/main.0ea1e483.chunk.css.map",
+    "static/js/2.16d3a128.chunk.js.LICENSE.txt": "/static/js/2.16d3a128.chunk.js.LICENSE.txt",
+    "static/media/chat.b3c156db.jpg": "/static/media/chat.b3c156db.jpg",
+    "static/media/chien.e54bf2c1.jpg": "/static/media/chien.e54bf2c1.jpg",
+    "static/media/chienChat.fc133cdc.jpg": "/static/media/chienChat.fc133cdc.jpg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccedc852.js",
+    "static/js/2.16d3a128.chunk.js",
+    "static/css/main.0ea1e483.chunk.css",
+    "static/js/main.937b4275.chunk.js"
+  ]
+}
